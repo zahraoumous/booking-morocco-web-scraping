@@ -1,0 +1,107 @@
+[
+    {
+        "service": "Expériences",
+        "nom_sur_site": "Expériences",
+        "url": "https://www.booking-morocco.com/experiences"
+    },
+    {
+        "service": "Location de voiture",
+        "nom_sur_site": "Car rental",
+        "url": "https://www.booking-morocco.com/carrental"
+    },
+    {
+        "service": "Excursions",
+        "nom_sur_site": "Excursions",
+        "url": "https://www.booking-morocco.com/search?type=excursion"
+    },
+    {
+        "service": "Restaurants",
+        "nom_sur_site": "Restaurants",
+        "url": "https://www.booking-morocco.com/restaurants"
+    },
+    {
+        "service": "Hôtels",
+        "nom_sur_site": "Hôtels",
+        "url": "https://www.booking-morocco.com/search?q=hotel"
+    },
+    {
+        "service": "Riads",
+        "nom_sur_site": "Riads",
+        "url": "https://www.booking-morocco.com/search?q=riad"
+    },
+    {
+        "service": "Appartements",
+        "nom_sur_site": "Appartements",
+        "url": "https://www.booking-morocco.com/search?q=apartment"
+    },
+    {
+        "service": "Villas",
+        "nom_sur_site": "Villas",
+        "url": "https://www.booking-morocco.com/search?q=villa"
+    },
+    {
+        "service": "Hostels",
+        "nom_sur_site": "Hostels",
+        "url": "https://www.booking-morocco.com/search?q=hostel"
+    },
+    {
+        "service": "Maisons d'hôtes",
+        "nom_sur_site": "Maisons d'hôtes",
+        "url": "https://www.booking-morocco.com/c/guesthouses"
+    },
+    {
+        "service": "Campings",
+        "nom_sur_site": "Campings",
+        "url": "https://www.booking-morocco.com/c/campsites"
+    },
+    {
+        "service": "Resorts",
+        "nom_sur_site": "Resorts",
+        "url": "https://www.booking-morocco.com/search?q=resort"
+    },
+    {
+        "service": "Vols",
+        "nom_sur_site": "Vols",
+        "url": "https://www.booking-morocco.com/c/flights"
+    },
+    {
+        "service": "Taxi et transfert aéroport",
+        "nom_sur_site": "Taxi aéroport",
+        "url": "https://www.booking-morocco.com/taxi-airport"
+    },
+    {
+        "service": "Attractions et activités",
+        "nom_sur_site": "Attractions",
+        "url": "https://www.booking-morocco.com/c/attractions"
+    },
+    {
+        "service": "Camps du désert",
+        "nom_sur_site": "Camps du désert",
+        "url": "https://www.booking-morocco.com/search?q=camp"
+    },
+    {
+        "service": "Artisanat marocain",
+        "nom_sur_site": "Artisanat marocain",
+        "url": "https://www.booking-morocco.com/boutiques"
+    },
+    {
+        "service": "Montgolfière",
+        "nom_sur_site": "Montgolfière",
+        "url": "https://www.booking-morocco.com/experiences?cat=aventure-plein-air&type=tourist_activity&q=montgolf"
+    },
+    {
+        "service": "Beach clubs",
+        "nom_sur_site": "Beach clubs",
+        "url": "https://www.booking-morocco.com/experiences?cat=loisirs-detente&type=beach_club"
+    },
+    {
+        "service": "Ateliers d'artisanat",
+        "nom_sur_site": "Ateliers d'artisanat",
+        "url": "https://www.booking-morocco.com/experiences?cat=culture-artisanat&type=shopping_crafts"
+    },
+    {
+        "service": "Forum voyageurs",
+        "nom_sur_site": "Forum voyageurs",
+        "url": "https://www.booking-morocco.com/forum"
+    }
+]
