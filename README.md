@@ -1,4 +1,4 @@
-# 🇲🇦 Booking Morocco Web Scraping
+# Booking Morocco Web Scraping
 
 A Python web scraping project developed to practice data extraction, cleaning, normalization and structured data export.
 
